@@ -27,6 +27,7 @@
 
 ## Test Instructions
 * This Social Network API works and is ready to be use by using the Insomia API Platform.
+* [Video Insomia instruction](https://livelacitecon-my.sharepoint.com/:v:/g/personal/2001326_collegelacite_ca/EdmByzlunylIiPxrnlcrgGkBEtLfvRTs1n2R3gSYz1tZ4g)
 
 ## License
 * MIT License
