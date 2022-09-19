@@ -26,7 +26,7 @@
 * [Social-Network-API-Ressources Git Hub](https://github.com/MiguelJerome/Social-Network-Api)
 
 ## Test Instructions
-* This Social Network API works and is ready to be use by using the Insomia API Platform.
+* This Social Network API works and is ready to be use by using the Insomnia API Platform.
 * [Video Insomia instruction](https://livelacitecon-my.sharepoint.com/:v:/g/personal/2001326_collegelacite_ca/EdmByzlunylIiPxrnlcrgGkBEtLfvRTs1n2R3gSYz1tZ4g)
 
 ## License
