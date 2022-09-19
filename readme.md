@@ -2,7 +2,7 @@
 ![Social Network API](./images/insomia%20API.png) 
 
 ## Table of Contents
-* [Project Title](#Social Network API)
+* [Social Network API](#Social-Network-API)
 * [Description](#Description)
 * [Installation instructions](#Installation-instructions)
 * [Usage Information](#Usage-Information)
